@@ -1,2 +1,2 @@
-# HoHako-HelloWorld
-The Hello-World Template Project for the CProgramming Repo
+# HoHako-HelloWorld-C
+The Hello-World-C Template Project for the CProgramming Repo
