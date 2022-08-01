@@ -1,2 +1,2 @@
 # HoHako-HelloWorld
-The Hello-World-C Template Project for the [HoHako](https://github.com/OngakuKun/HoHako) Repository
+**The Template for the Projects Contained inside the [HoHako](https://github.com/OngakuKun/HoHako) Collection**
